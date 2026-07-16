@@ -33,6 +33,3 @@
 - Practiced Python implementations of basic DSA problems.
 - Improved logical thinking and problem-solving skills.
 
-## 📝 Notes
-- Need additional revision on Merge Sort, Quick Sort, Tree concepts, and Recursion.
-- Will continue solving coding problems to improve speed and interview readiness.
