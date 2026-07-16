@@ -1,0 +1,12 @@
+[
+  {"ID": 1, "Name": "Alice", "Age": 25, "Department": "HR", "Salary": 50000},
+  {"ID": 2, "Name": "Bob", "Age": null, "Department": "IT", "Salary": 60000},
+  {"ID": 3, "Name": "Charlie", "Age": 35, "Department": "IT", "Salary": 75000},
+  {"ID": 4, "Name": "David", "Age": 40, "Department": "Finance", "Salary": 80000},
+  {"ID": 5, "Name": "Eva", "Age": 22, "Department": "HR", "Salary": 52000},
+  {"ID": 6, "Name": "Frank", "Age": 29, "Department": "Marketing", "Salary": 58000},
+  {"ID": 7, "Name": "Grace", "Age": 31, "Department": "IT", "Salary": 72000},
+  {"ID": 8, "Name": "Henry", "Age": null, "Department": "Finance", "Salary": 85000},
+  {"ID": 9, "Name": "Ivy", "Age": 28, "Department": "HR", "Salary": null},
+  {"ID": 10, "Name": "Jack", "Age": 36, "Department": "Marketing", "Salary": 62000}
+]
