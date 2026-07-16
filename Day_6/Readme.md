@@ -30,6 +30,4 @@
 - Practiced common data preprocessing techniques.
 - Gained hands-on experience with DataFrame operations and data analysis workflows.
 
-## 📝 Notes
-- Need more practice with GroupBy, Feature Engineering, and Missing Value Handling.
-- Will continue working with real-world datasets to improve analytical skills.
+
