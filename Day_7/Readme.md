@@ -1,11 +1,21 @@
-Day 07 Report – Data Visualization & SQL
+# Day 07 – Data Visualization & SQL
 
-Task Completed: ✅
+## Topics Covered
+- Matplotlib
+- Basic Charts
+- Histograms
+- Scatter Plots
+- Correlation Heatmaps (Concept)
+- SQL Basics
+- SELECT, WHERE, GROUP BY, JOIN
+- Connecting Python with SQLite Database
 
-Today, I completed the topics on Data Visualization and SQL Basics. I learned how to use the Matplotlib library to create different types of visualizations, including basic charts, histograms, and scatter plots. I also understood the concept of correlation heatmaps and how they are used to analyze relationships between different features in a dataset.
+## What I Learned
+- Created different types of data visualizations using Matplotlib.
+- Understood the purpose of histograms, scatter plots, and correlation heatmaps.
+- Learned basic SQL queries for retrieving, filtering, grouping, and joining data.
+- Connected Python with an SQLite database using the `sqlite3` module.
+- Performed database operations such as creating tables, inserting, retrieving, updating, and deleting records.
 
-In SQL, I learned the fundamentals of database operations, including SELECT, WHERE, GROUP BY, and JOIN queries. I practiced creating databases and tables, inserting, updating, deleting, and retrieving records using SQL. Additionally, I learned how to connect Python with an SQLite database and perform database operations using the sqlite3 module.
-
-Overall, today's learning helped me understand the basics of data visualization and database management, which are essential skills for data analysis and Python development.
-
-Status: ✅ Completed Successfully
+## Status
+✅ Completed
